@@ -5,5 +5,5 @@
         <strong>Version</strong>&nbsp;&nbsp; {!! config('admin.version') !!}
     </div>
     <!-- Default to the left -->
-    <strong>Copyright &copy; 2016 <a href="https://github.com/z-song/laravel-admin">laravel-admin</a>.</strong> All rights reserved.
+    <strong>Copyright &copy; 2016 <a href="{!! config('admin.powerby_domain') !!}">powerby_name</a>.</strong> All rights reserved.
 </footer>
