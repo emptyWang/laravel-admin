@@ -102,4 +102,14 @@ return [
     'layout'  => ['sidebar-mini'],
 
     'version'   => '1.0',
+    
+    /*
+     * Domain use in footer.
+     */
+
+    'powerby_domain'   => 'http://teddymobile.cn/',
+    /*
+     * Name displayed in footer.
+     */
+    'powerby_name'   =>  '泰迪科技',
 ];
